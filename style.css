@@ -6,3 +6,7 @@
   display: block;
   color: blueviolet;
 }
+.card-body {
+  padding: 45px auto;
+  margin: 30px auto;
+}
